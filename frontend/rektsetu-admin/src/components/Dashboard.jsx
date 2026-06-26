@@ -3,7 +3,7 @@ import BloodInventoryChart from "./BloodInventoryChart";
 import EmergencyAlerts from "./EmergencyAlerts";
 import DonationRecordsTable from "./DonationRecordsTable";
 import StockStatus from "./StockStatus";
-import StorageMap from "./StorageMap";
+
 
 export default function Dashboard() {
   return (
@@ -17,7 +17,7 @@ export default function Dashboard() {
 
       <StatsGrid />
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 lg:grid-coSls-3 gap-6">
         <BloodInventoryChart />
         <EmergencyAlerts />
       </div>
@@ -26,7 +26,7 @@ export default function Dashboard() {
         <DonationRecordsTable />
         <div className="space-y-6">
           <StockStatus />
-          <StorageMap />
+          
         </div>
       </div>
     </div>
