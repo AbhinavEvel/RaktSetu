@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\cdac-project-Raksetu\RaktSetu\backend\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1439889980.index
+7666621.index
+3662953590.index
+693187842.index
+728309478.index
+4103352979.index
+1002671885.index

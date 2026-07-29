@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Mon Jun 15 17:00:59 IST 2026
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\HP\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-el\\10.1.20\\tomcat-embed-el-10.1.20.jar=WEB-INF/lib/tomcat-embed-el-10.1.20.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\HP\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\10.1.20\\tomcat-embed-websocket-10.1.20.jar=WEB-INF/lib/tomcat-embed-websocket-10.1.20.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\HP\\.m2\\repository\\org\\springframework\\spring-web\\6.1.6\\spring-web-6.1.6.jar=WEB-INF/lib/spring-web-6.1.6.jar
