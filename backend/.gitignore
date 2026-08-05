@@ -23,4 +23,5 @@ application-secret.properties
 
 # --- OS Specific Files ---
 .DS_Store
-Thumbs.db
+Thumbs.dbServers/
+.factorypath
